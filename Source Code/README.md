@@ -22,10 +22,6 @@ This folder contains two versions of the code used in the project:
 
 ---
 
-Sure! Here are the **step-by-step instructions** to use a `.aia` file in **MIT App Inventor**:
-
----
-
 ## 🧩 How to Use a `.aia` File in MIT App Inventor
 
 ### 📌 What is a `.aia` file?
