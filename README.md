@@ -13,8 +13,7 @@ An all-in-one mobile automation tool built using **MIT App Inventor** to simplif
 ### 🔧 Built With:
 
 * MIT App Inventor
-* Google Apps Integration (Drive/File Handling)
-* OCR via third-party services (if used)
+* Taifun Extentions
 
 ### 🎯 Purpose:
 
